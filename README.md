@@ -1,4 +1,4 @@
-This app is fetches car insurance quotations from different companies.
+This app fetches car insurance quotations from different companies.
 
 <!-- Project Structure -->
 src/
